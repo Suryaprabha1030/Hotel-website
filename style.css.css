@@ -1,0 +1,57 @@
+body {
+  font-family: "Poppins", sans-serif;
+  text-transform: capitalize;
+}
+.bh {
+  background-color: #00000080;
+}
+.logo {
+  font-size: 35px;
+}
+
+.navbar-nav a {
+  font-size: 18px;
+}
+.carousel img {
+  object-fit: top;
+  object-position: cover;
+  height: 100vh;
+}
+.btd {
+  width: 120px;
+  border-radius: 25px;
+  background-color: rgba(0, 0, 0, 0.658);
+  color: white;
+  font-size: 25px;
+  margin-top: 28px;
+}
+.btg {
+  border-radius: 25px;
+  background-color: red;
+}
+.btn:hover {
+  background-color: blue;
+}
+.bg {
+  background-color: rgba(241, 239, 239, 0.849);
+}
+p {
+  font-size: 1.13rem;
+}
+.txt {
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 25px;
+}
+input {
+  height: 40px;
+  text-transform: capitalize;
+}
+input[type="text"],
+input[type="number"],
+input[type="email"] {
+  font-size: 20px;
+}
+.map {
+  margin-left: 0;
+}
