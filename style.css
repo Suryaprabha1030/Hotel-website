@@ -1,6 +1,7 @@
 body {
   font-family: "Poppins", sans-serif;
   text-transform: capitalize;
+  text-align:justify;
 }
 .bh {
   background-color: #00000080;
@@ -45,7 +46,6 @@ p {
 }
 input {
   height: 40px;
-  text-transform: capitalize;
 }
 input[type="text"],
 input[type="number"],
